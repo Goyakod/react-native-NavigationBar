@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d1f7e627450adf0dcdc08ae8990d74989215279c.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/classes-fe279b4c18a41dda96a2f58d037f4b1721008f76.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.12.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-25e983c66684b0877695e06ef9f2fe92332c58fb.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-17649ce2d636e730d883b3ac8c32d24f382520e6.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/classes-ea9986de25a6c75c00c6c0fe504519fb806d9d0a.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-5652f878fbeba2dcbd66bf78e8448e10b1fa66ce.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/classes-1269761ff3e9708c714ada9c989650f4343784fa.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/classes-f865d0a34fd13876776056118288a0b3023a571d.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5890aba13830ee1b1af1e70a504131d402a109b4">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/classes-c9abd3b0406eece5bea1f5a98247050f0e3e1b92.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-5bead0aa9737e3a323033f939478675ddf97f5be.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/classes-4119827f81866008b870311dc65252242b42ce89.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.5.0/bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a/okio-1.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/okio-1.5.0-a61c57ff0012d0a4285c4ee54042e8a7f10de2a2.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-86176f66c46ed6328321724c4e6ccbb2ee86d5e0.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d5fddbfc516e39dd74d776e5cca8b761721990b">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/classes-09b6f2ff5d756d8a87fd5d2c731819349eada740.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-1fccb99867dbda3b76c2949cb442c5e44888c64a.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/classes-a3f1e302f084607117870b52b99e990e381c0859.jar" />
+    </item>
+    <item
+        jar="/Users/bhyt-pro1/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/bhyt-pro1/RNProject/NavigatorDemo/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-c993cc099dc4b52bcee05d71f8dbde9f3583216d.jar" />
+    </item>
+
+</items>
